@@ -20,9 +20,18 @@ body{
     padding: 20px;
     background-color: #ffffffc4;
 }
+@media (max-width:799px) {
+    .app{
+        max-width: 100%;
+    }
+    .header{
+        font-size: 22px;
+        padding: 17px;
+    }
+}
 .ques{
     font-size: 20px;
-    padding: 20px;
+    padding: 22px;
     background-color: #ffffffc4;
     margin-top: 10px;
 }
