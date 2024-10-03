@@ -1,0 +1,82 @@
+[
+    {
+        "title":"Why We Use <br> Element",
+        "answer_1":"To Make Text Bold",
+        "answer_2":"To Make Text Italic",
+        "answer_3":"To Add Breakline",
+        "answer_4":"To Create Horizontal Line",
+        "right_answer": "To Add Breakline"
+    },
+    {
+        "title":"Which of the following colors contain equal amounts of RBG?",
+        "answer_1":"White",
+        "answer_2":"Gtay",
+        "answer_3":"Black",
+        "answer_4":"All of the above",
+        "right_answer": "All of the above"
+    },
+    {
+        "title":" Which of the following is correct character entities for <Copyright= symbol?",
+        "answer_1":"#164",
+        "answer_2":"#167",
+        "answer_3":"#169",
+        "answer_4":"None of the above",
+        "right_answer": "#169"
+    },
+    {
+        "title":"In how many ways can CSS be written in?",
+        "answer_1":"1",
+        "answer_2":"2",
+        "answer_3":"3",
+        "answer_4":"4",
+        "right_answer": "3"
+    },
+    {
+        "title":"What is the correct syntax for referring an external CSS?",
+        "answer_1":"<link rel='stylesheet' type='text/css' href='style.css'>",
+        "answer_2":"<style rel='stylesheet' type='text/css' href='style.css'>",
+        "answer_3":"Both A and B",
+        "answer_4":"None of the above",
+        "right_answer": "<link rel='stylesheet' type='text/css' href='style.css'>"
+    },
+    {
+        "title":"What does the inherit value for a property do?",
+        "answer_1":"Inherits the value of the parent element",
+        "answer_2":"Invalid property name",
+        "answer_3":"Changes the value of the parent element",
+        "answer_4":"None of the above",
+        "right_answer": "Inherits the value of the parent element"
+    },
+    {
+        "title":"Which of the following can be achieved with CSS lists?",
+        "answer_1":"Set different list item marker for ordered list",
+        "answer_2":"Set different list item marker for unordered list",
+        "answer_3":"Set an image as the list item marker",
+        "answer_4":"All of the above",
+        "right_answer": "All of the above"
+    },
+    {
+        "title":"When an operator’s value is NULL, the typeof returned by the unary operator is:",
+        "answer_1":"Boolean",
+        "answer_2":"Undefiend",
+        "answer_3":"Object",
+        "answer_4":"Integer",
+        "right_answer": "Object"
+    },
+    {
+        "title":"Which function is used to serialize an object into a JSON string in Javascript?",
+        "answer_1":"Stringify()",
+        "answer_2":"Parse()",
+        "answer_3":"Convert()",
+        "answer_4":"None of the above",
+        "right_answer": "Stringify()"
+    },
+    {
+        "title":"Which of the following methods can be used to display data in some form using Javascript?",
+        "answer_1":"document.write()",
+        "answer_2":"console.log()",
+        "answer_3":"window.alert()",
+        "answer_4":"All of the above",
+        "right_answer": "All of the above"
+    }
+]
